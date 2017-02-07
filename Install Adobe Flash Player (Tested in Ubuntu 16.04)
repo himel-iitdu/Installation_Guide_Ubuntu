@@ -1,0 +1,8 @@
+Add this line to /etc/apt/sources.list:
+
+deb http://archive.canonical.com/ubuntu yakkety partner
+and run
+
+sudo apt update
+
+sudo apt-get install adobe-flashplugin
